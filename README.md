@@ -40,7 +40,7 @@ This could be
 
 List of existing solutions and their analyses
 
-- https://www.typeleap.com
+- https://www.typeleap.com -  They have a small demo with dynamic buttons but doesn't cover the scope of how navigatio in complex websites such as insurance could be useful
 
 # Intent-Mapping
 
