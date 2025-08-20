@@ -36,6 +36,12 @@ This could be
 - Uses pre built UI to commmunicate and control data. 
 - An interface to bring up and control apps (an AI Operating System)
 
+# Existing Solutions
+
+List of existing solutions and their analyses
+
+- https://www.typeleap.com
+
 # Intent-Mapping
 
 Here are some intent mappings I am thinking of
