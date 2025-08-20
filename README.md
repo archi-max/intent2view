@@ -49,4 +49,4 @@ Here are some intent mappings I am thinking of
 | Intent        | Mapping   |
 |   -           |   -       |
 | Signal Data   | Waveform Viewer with decoded data (State names, enums, etc.) instead of raw signal (1, 0, hexes) |
-|   -           |   -       |  
+| Navigation    | I believe we shouldn't have to navigate with websites painfully - websites should be able to offer most information under 2,3 clicks / 2 small prompts / user specific actions - reconstructing UI to adapt to the user in a consistent way. They shouldn't change everytime, but they should automatically create quick actions when I use certain items on the website regularly     |  
